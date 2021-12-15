@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/437560017.svg)](https://zenodo.org/badge/latestdoi/437560017)
+
 # Code and data for *Price Revelation from Insider Trading: Evidence from Hacked Earnings News*
 Journal of Financial Economics
 
